@@ -1,1 +1,1 @@
-# SQL-GYM-Membership-System
+# SQL-GYM-Membership-Management
